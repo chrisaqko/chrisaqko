@@ -59,6 +59,10 @@ Soy **Ingeniera en Sistemas de Computación** (plan de estudios completado, se p
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
   </p>
+* **Operative Systems:** <p align="center">
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  </p>
   
 ### Data Science & Engineering
 * **Processes:** ETL (Extract, Transform, Load), Data Normalization, and Data Integrity.
