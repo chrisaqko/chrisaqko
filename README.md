@@ -75,6 +75,3 @@ Soy **Ingeniera en Sistemas de Computación** (plan de estudios completado, se p
 * **CCNAv7: Introduction to Networks**
 * **Introduction to IoT**
 
-![Estadísticas de Christie](https://github-readme-stats.vercel.app/api?username=chrisaqko&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisaqko&layout=compact&theme=radical)
-
